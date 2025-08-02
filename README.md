@@ -32,7 +32,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8800?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![C Programming](https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Office & Collaboration Tools:**  
