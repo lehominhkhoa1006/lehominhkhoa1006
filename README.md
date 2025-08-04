@@ -25,7 +25,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 
 **Driving Licenses:**  
 ![A1 License](https://img.shields.io/badge/A1%20Motorcycle%20License-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)
-![B1 License](https://img.shields.io/badge/B1%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![B2 License](https://img.shields.io/badge/B1%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 **Engineering & Simulation:**  
 ![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
