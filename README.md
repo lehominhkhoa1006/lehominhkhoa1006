@@ -60,8 +60,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Poe](https://img.shields.io/badge/Poe-000000?style=for-the-badge&logo=quora&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-222222?style=for-the-badge)
-
+![Claude](https://img.shields.io/badge/CLAUDE-444444?style=for-the-badge&logoColor=white)
 
 
 
