@@ -47,13 +47,13 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Snapseed](https://img.shields.io/badge/Snapseed-41641f?style=for-the-badge&logoColor=white)
-![UltraViewer](https://img.shields.io/badge/UltraViewer-454545?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
-
+![UltraViewer](https://img.shields.io/badge/UltraViewer-454545?style=for-the-badge&logoColor=white)
 
 **AI & Data Science:**  
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-8a2be2?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-1F2937?style=for-the-badge&logo=perplexity&logoColor=white)
