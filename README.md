@@ -55,7 +55,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-1F2937?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Poe](https://img.shields.io/badge/Poe-000000?style=for-the-badge&logo=quora&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
