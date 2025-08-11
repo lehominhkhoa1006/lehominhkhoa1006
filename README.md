@@ -50,7 +50,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 
-
 **AI & Data Science:**  
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -61,7 +60,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Poe](https://img.shields.io/badge/Poe-000000?style=for-the-badge&logo=quora&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE-444444?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
 
