@@ -21,12 +21,10 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ## 🛠 My Skills
 
 **Languages & Communication:**  
-
 ![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
 
 
 **Driving Licenses:**  
-
 ![A1 License](https://img.shields.io/badge/A1%20Motorcycle%20License-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![B2 License](https://img.shields.io/badge/B2%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -42,7 +40,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 
 
 **Office & Collaboration Tools:**  
-
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -59,7 +56,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 
 
 **Data Science and Artificial Intelligence:**
-
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
