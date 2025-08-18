@@ -51,7 +51,8 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 
-**Data Science and Artificial Intelligence:***
+**Data Science and Artificial Intelligence:**
+
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
@@ -73,6 +74,3 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 [![Facebook 1](https://img.shields.io/badge/Facebook%201-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14DLkWX2cvd/?mibextid=wwXIfr)
 [![Facebook 2](https://img.shields.io/badge/Facebook%202-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176mcZYkx4/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_ho_minh_khoa/profilecard/?igsh=cnBhczI5Nm03dzBm)
-
-**Data Science and Artificial Intelligence:**
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-FFCC00?style=for-the-badge&logo=x&logoColor=black) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1E40AF?style=for-the-badge&logo=perplexity&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white) ![Poe](https://img.shields.io/badge/Poe-AC2DFE?style=for-the-badge&logo=quora&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
