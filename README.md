@@ -52,9 +52,9 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 
 **Data Science and Artificial Intelligence:**
- ![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-FFCC00?style=for-the-badge&logo=x&logoColor=black)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
