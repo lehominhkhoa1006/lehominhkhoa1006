@@ -37,7 +37,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-Simulation-orange?logo=mathworks)
+![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
 
@@ -55,7 +55,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Snapseed](https://img.shields.io/badge/Snapseed-41641f?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-Editing-blue?logo=DaVinci-Resolve)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 
 **Data Science & Artificial Intelligence:**
