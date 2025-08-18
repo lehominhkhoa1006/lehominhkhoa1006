@@ -51,6 +51,13 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 
+**Data Science and Artificial Intelligence:**
+![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
+![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=Mathworks&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
