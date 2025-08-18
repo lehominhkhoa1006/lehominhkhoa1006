@@ -41,10 +41,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 
 
 
-**Office & Collaboration Tools:**  
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+**Collaboration & Office Tools:**  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
@@ -56,6 +53,10 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
 
 
 **Data Science & Artificial Intelligence:**
