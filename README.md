@@ -21,11 +21,15 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ## 🛠 My Skills
 
 **Languages & Communication:**  
+
 ![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
 
+
 **Driving Licenses:**  
+
 ![A1 License](https://img.shields.io/badge/A1%20Motorcycle%20License-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![B2 License](https://img.shields.io/badge/B2%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 
 **Engineering & Simulation:**  
 ![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
@@ -36,7 +40,9 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+
 **Office & Collaboration Tools:**  
+
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -50,6 +56,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Snapseed](https://img.shields.io/badge/Snapseed-41641f?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
+
 
 **Data Science and Artificial Intelligence:**
 
