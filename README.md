@@ -9,11 +9,10 @@
 Graduated from **Ho Chi Minh City University of Technology and Education**, I am a fresh **Automotive Technology Engineer** passionate about designing and programming smart vehicles. My goal is to create more accessible mobility solutions tailored for the Vietnamese market.  
 
 ---
-
-<table>
+<table border="0" style="border: none;">
   <tr>
     <td>
-      
+
 ## 💻 About my work:  
 - Research on autonomous vehicles  
 - Study of LiDAR and Camera sensors  
@@ -26,7 +25,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
     </td>
   </tr>
 </table>
-
 
 
 ---
