@@ -86,6 +86,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_ho_minh_khoa/profilecard/?igsh=cnBhczI5Nm03dzBm)
 ![Car Loading](https://raw.githubusercontent.com/lehominhkhoa1006/lehominhkhoa1006/main/assets/car-loading.gif)
 assets/car-5683_128
-
+[car_animation](https://raw.githubusercontent.com/lehominhkhoa1006/lehominhkhoa1006/refs/heads/main/README.md)
 
 
