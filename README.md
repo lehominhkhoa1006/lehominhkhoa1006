@@ -84,6 +84,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 [![Facebook 1](https://img.shields.io/badge/Facebook%201-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14DLkWX2cvd/?mibextid=wwXIfr)
 [![Facebook 2](https://img.shields.io/badge/Facebook%202-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176mcZYkx4/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_ho_minh_khoa/profilecard/?igsh=cnBhczI5Nm03dzBm)
-(https://raw.githubusercontent.com/lehominhkhoa1006/lehominhkhoa1006/main/assets/car-loading.gif)
+![Car Loading](https://raw.githubusercontent.com/lehominhkhoa1006/lehominhkhoa1006/main/assets/car-loading.gif)
+
 
 
