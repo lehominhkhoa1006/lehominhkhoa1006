@@ -15,7 +15,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 - Study of LiDAR and Camera sensors  
 - Research on line-following vehicles  
 - Investigating methods to improve safety for drivers and passengers in transportation  ![Image](https://github.com/user-attachments/assets/5ed48404-2875-456d-98cb-5f44d4946dd7)
-
+![Image](https://github.com/user-attachments/assets/692f1ba6-92e9-4136-a23d-a4be116c0b5f)
 
 ---
 
