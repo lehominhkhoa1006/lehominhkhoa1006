@@ -15,7 +15,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 - Study of LiDAR and Camera sensors  
 - Research on line-following vehicles  
 - Investigating methods to improve safety for drivers and passengers in transportation  
-
+![Image](https://github.com/user-attachments/assets/5ed48404-2875-456d-98cb-5f44d4946dd7)
 
 ---
 
@@ -85,6 +85,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 [![Facebook 2](https://img.shields.io/badge/Facebook%202-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176mcZYkx4/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_ho_minh_khoa/profilecard/?igsh=cnBhczI5Nm03dzBm)
 ![Car Loading](https://raw.githubusercontent.com/lehominhkhoa1006/lehominhkhoa1006/main/assets/car-loading.gif)
-![Image](https://github.com/user-attachments/assets/5ed48404-2875-456d-98cb-5f44d4946dd7)
+
 
 
