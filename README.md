@@ -8,7 +8,6 @@
 ## 😊 About me:  
 Graduated from **Ho Chi Minh City University of Technology and Education**, I am a fresh **Automotive Technology Engineer** passionate about designing and programming smart vehicles. My goal is to create more accessible mobility solutions tailored for the Vietnamese market.  
 
-![Image](https://github.com/user-attachments/assets/f0ade79f-aa2d-4892-9275-553df3c6aeb0)
 ---
 
 ## 💻 About my work:  
@@ -16,6 +15,9 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 - Study of LiDAR and Camera sensors  
 - Research on line-following vehicles  
 - Investigating methods to improve safety for drivers and passengers in transportation
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/f0ade79f-aa2d-4892-9275-553df3c6aeb0" width="200">
+</div>
 
 
 ---
