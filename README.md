@@ -33,6 +33,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 
 **Languages & Communication:**  
 ![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
+![Deutsch](https://img.shields.io/badge/Deutsch-FFCE00?style=for-the-badge&logo=Germany&logoColor=black)
 
 
 **Driving Licenses:**  
