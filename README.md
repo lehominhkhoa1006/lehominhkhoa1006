@@ -45,7 +45,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![NX Siemens](https://img.shields.io/badge/NX_Siemens-CAD%2FCAM%2FCAE-0078d4?style=flat-square&logo=siemens&logoColor=white)
+![NX Siemens](https://img.shields.io/badge/NX%20Siemens-0077C0?style=for-the-badge)
 ![C Programming](https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
