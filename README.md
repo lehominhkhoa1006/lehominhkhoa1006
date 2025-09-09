@@ -14,10 +14,10 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
     <td>
 
 ## 💻 About my work:  
-- Research on autonomous vehicles  
-- Study of LiDAR and Camera sensors  
-- Research on line-following vehicles  
-- Investigating methods to improve safety for drivers and passengers in transportation  
+- Research on autonomous vehicles.  
+- Study of LiDAR and Camera sensors.  
+- Research on line-following vehicles.  
+- Investigating methods to improve safety for drivers and passengers in transportation. 
 
     </td>
     <td align="right">
