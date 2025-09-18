@@ -52,7 +52,7 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keil Vision 5 Build Status](https://img.shields.io/badge/Keil_Vision_5-Build_Status-brightgreen)
+![Keil Vision 5](https://img.shields.io/badge/Keil%20Vision%205-000000?style=for-the-badge&logo=Keil&logoColor=white)
 
 
 
