@@ -53,9 +53,6 @@ Graduated from **Ho Chi Minh City University of Technology and Education**, I am
 ![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keil uVision5](https://img.shields.io/badge/Keil%20µVision5-3949AB?style=for-the-badge)
-![Keil uVision5](https://img.shields.io/badge/Keil%20µVision5-3949AB?style=for-the-badge&logo=data:image/png;base64,<chuỗi_base64>&logoColor=white)
-<img src="assets/keil-logo.png" width="20"/> **Keil µVision5**
-
 
 
 
