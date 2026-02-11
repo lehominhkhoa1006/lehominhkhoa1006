@@ -6,7 +6,7 @@
 ---
 
 ## 😊 About me:  
-Graduated from **Ho Chi Minh City University of Technology and Education**, I am a fresh **Automotive Technology Engineer** passionate about designing and programming smart vehicles. My goal is to create more accessible mobility solutions tailored for the Vietnamese market.  
+Graduated from **Ho Chi Minh City University of Technology and Education**, I am an **Automotive Technology Engineer** passionate about designing and programming smart vehicles. My goal is to create more accessible mobility solutions tailored for the Vietnamese market.  
 
 ---
 <table border="0" style="border: none;">
