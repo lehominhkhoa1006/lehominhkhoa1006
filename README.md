@@ -1,6 +1,4 @@
-# Hiii! Welcome to my profile!  
-My name is **Le Ho Minh Khoa**  
-
+# Hi, I'm Le Ho Minh Khoa
 ---
 
 ## About me:  
