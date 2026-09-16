@@ -40,7 +40,16 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Keil uVision 5](https://img.shields.io/badge/Keil%20uVision%205-009640?style=for-the-badge&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
+## 📚 Publications
 
+- **Optimized Flux-Weakening Strategy in Field-Oriented Control for High-Speed IPMSM Drives**  
+  *Automotive Experiences, 2026*  
+  [DOI](https://doi.org/10.31603/ae.16198)
+
+- **Reinforcement Learning with ITAE-Based DDPG for Continuous PI Tuning in FOC IPMSM Drives**  
+  *Green Technology and Sustainable Development Conference, 2026*  
+  [Paper]
+  
 ---
 
 ## 📩 Contact Email: lehominhkhoa1006@gmail.com  
