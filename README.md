@@ -43,9 +43,9 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 **Additional Tools:**  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Keil uVision 5](https://img.shields.io/badge/Keil_uVision_5-009640?style=for-the-badge&logoColor=white)
 
 
