@@ -4,7 +4,7 @@ My name is **Le Ho Minh Khoa**
 ---
 
 ## About me:  
-Graduated from **Ho Chi Minh City University of Technology and Education**, I am an **Automotive Technology Engineer** passionate about designing and programming smart vehicles. My goal is to create more accessible mobility solutions tailored for the Vietnamese market.  
+Automotive Engineering Technology graduate and Research Assistant exploring electric motor control and intelligent vehicle systems. My projects range from autonomous cars and ROS to LiDAR fusion and computer vision, built with Python, C/C++, and embedded platforms.
 
 ---
 <table border="0" style="border: none;">
