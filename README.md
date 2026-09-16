@@ -61,7 +61,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
-![Snapseed](https://img.shields.io/badge/Snapseed-41641f?style=for-the-badge&logoColor=white)
 
 
 **Data Science & Artificial Intelligence:**
