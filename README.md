@@ -61,7 +61,7 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
 
 ## 📩 Contact
 - 📧 **Email:** lehominhkhoa1006@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/ho-minh-khoa-le](https://www.linkedin.com/in/ho-minh-khoa-le-00523037b/)
 - 📱 **Phone:** +84 337 207 717
-- 💼 **LinkedIn:** [linkedin.com/in/ho-minh-khoa-le](https://www.linkedin.com/in/ho-minh-khoa-le/)
 
 
