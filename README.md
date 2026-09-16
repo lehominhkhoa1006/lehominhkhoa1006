@@ -10,6 +10,11 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 My current work focuses on electric motor control for IPMSM drives, including Field-Oriented Control, flux-weakening, and Reinforcement Learning. I work with MATLAB/Simulink modeling and STM32-based motor-control experiments.
 
 ---
+## 🚗 Undergraduate Interests & Projects
+
+During my undergraduate studies, I explored autonomous vehicles, embedded systems, sensor fusion, and computer vision through hands-on engineering projects. These projects built my foundation in Python, C/C++, Arduino, ROS, LiDAR, and OpenCV, which now supports my broader work in intelligent and electric vehicle systems.
+
+---
 
 ## 📚 Publications
 
