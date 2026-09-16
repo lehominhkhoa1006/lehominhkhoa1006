@@ -41,11 +41,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 
-**Languages & Communication:**  
-![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
-![Deutsch](https://img.shields.io/badge/Deutsch-FFCE00?style=for-the-badge&logo=Germany&logoColor=black)
-
-
 ---
 
 ## 📩 Contact Emails: 
