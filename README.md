@@ -1,7 +1,6 @@
 # Hi, I'm Le Ho Minh Khoa
 ---
-
-## About me:  
+## 👋 About Me
 Automotive Engineering Technology graduate and Research Assistant exploring electric motor control and intelligent vehicle systems. My projects range from autonomous cars and ROS to LiDAR fusion and computer vision, built with Python, C/C++, and embedded platforms.
 
 ---
@@ -9,20 +8,23 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
   <tr>
     <td>
 
-## 💻 About my work:  
-- Research on autonomous vehicles
-- Study of LiDAR and Camera sensors
-- Research on line-following vehicles
-- Investigating methods to improve safety for drivers and passengers in transportation
+## 🔬 Current Research
 
-    </td>
-    <td align="right">
-      <img src="https://github.com/user-attachments/assets/f0ade79f-aa2d-4892-9275-553df3c6aeb0" width="200">
-    </td>
-  </tr>
-</table>
+My current work focuses on electric motor control for IPMSM drives, including Field-Oriented Control, flux-weakening, and Reinforcement Learning. I work with MATLAB/Simulink modeling and STM32-based motor-control experiments.
 
+---
 
+## 📚 Publications
+
+- **Optimized Flux-Weakening Strategy in Field-Oriented Control for High-Speed IPMSM Drives**  
+  *Automotive Experiences, 2026*  
+  [DOI](https://doi.org/10.31603/ae.16198)
+
+- **Reinforcement Learning with ITAE-Based DDPG for Continuous PI Tuning in FOC IPMSM Drives**  
+  *Green Technology and Sustainable Development Conference, 2026*  
+  [Paper]
+
+  
 ---
 
 ## 🛠 My Skills
@@ -40,26 +42,17 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Keil uVision 5](https://img.shields.io/badge/Keil%20uVision%205-009640?style=for-the-badge&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
-## 📚 Publications
-
-- **Optimized Flux-Weakening Strategy in Field-Oriented Control for High-Speed IPMSM Drives**  
-  *Automotive Experiences, 2026*  
-  [DOI](https://doi.org/10.31603/ae.16198)
-
-- **Reinforcement Learning with ITAE-Based DDPG for Continuous PI Tuning in FOC IPMSM Drives**  
-  *Green Technology and Sustainable Development Conference, 2026*  
-  [Paper]
   
 ---
 
 ## 📩 Contact Email: lehominhkhoa1006@gmail.com  
 
-## 🌐 Social Links:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-minh-khoa-le-00523037b/)
 [![Facebook 1](https://img.shields.io/badge/Facebook%201-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14DLkWX2cvd/?mibextid=wwXIfr)
 [![Facebook 2](https://img.shields.io/badge/Facebook%202-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176mcZYkx4/?mibextid=wwXIfr)
 
-
+---
 
 
 
