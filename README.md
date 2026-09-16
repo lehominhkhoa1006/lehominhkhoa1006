@@ -54,10 +54,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 
-
-**Collaboration & Office Tools:**  
-
-
 **Data Science & Artificial Intelligence:**
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
