@@ -63,7 +63,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 ![Snapseed](https://img.shields.io/badge/Snapseed-41641f?style=for-the-badge&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=27e466)
-![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
 
 
 **Data Science & Artificial Intelligence:**
