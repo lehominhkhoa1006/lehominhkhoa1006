@@ -1,7 +1,5 @@
 # 👋 Hiii! Welcome to my profile!  
 ⭐️ My name is **Le Ho Minh Khoa**  
-🎶 My vibe:
-[Check out my music style here](https://www.youtube.com/watch?v=6TJg2EEdsYg&list=RD6TJg2EEdsYg&start_radio=1) 🎵  
 
 ---
 
