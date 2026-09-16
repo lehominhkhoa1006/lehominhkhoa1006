@@ -69,9 +69,10 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 - **Personal email:** lehominhkhoa1006@gmail.com  
 
 ## 🌐 Social Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-minh-khoa-le-00523037b/)
 [![Facebook 1](https://img.shields.io/badge/Facebook%201-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14DLkWX2cvd/?mibextid=wwXIfr)
 [![Facebook 2](https://img.shields.io/badge/Facebook%202-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176mcZYkx4/?mibextid=wwXIfr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-minh-khoa-le-00523037b/)
+
 
 
 
