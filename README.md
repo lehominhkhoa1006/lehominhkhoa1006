@@ -44,6 +44,25 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
 ![Keil uVision 5](https://img.shields.io/badge/Keil%20uVision%205-009640?style=for-the-badge&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
+## 🛠 Engineering & Research
+
+**Core Tools:**  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keil uVision 5](https://img.shields.io/badge/Keil_uVision_5-009640?style=for-the-badge&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+**Additional Tools:**  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   
 ---
 
