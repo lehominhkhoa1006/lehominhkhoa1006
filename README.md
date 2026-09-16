@@ -62,11 +62,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Deutsch](https://img.shields.io/badge/Deutsch-FFCE00?style=for-the-badge&logo=Germany&logoColor=black)
 
 
-**Driving Licenses:**  
-![A1 License](https://img.shields.io/badge/A1%20Motorcycle%20License-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)
-![B2 License](https://img.shields.io/badge/B2%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-
 ---
 
 ## 📩 Contact Emails: 
