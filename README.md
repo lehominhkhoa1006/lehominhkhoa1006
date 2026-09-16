@@ -28,7 +28,7 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
 
   
 ---
-## 🛠 Engineering & Research
+## 🛠 Technical Tools & Technologies
 
 **Core Tools:**  
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=Mathworks&logoColor=white)
@@ -48,14 +48,6 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
 ![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   
----
-
-## 📩 Contact Email: lehominhkhoa1006@gmail.com  
-
-## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-minh-khoa-le-00523037b/)
-[![Facebook 1](https://img.shields.io/badge/Facebook%201-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14DLkWX2cvd/?mibextid=wwXIfr)
-[![Facebook 2](https://img.shields.io/badge/Facebook%202-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176mcZYkx4/?mibextid=wwXIfr)
 
 ---
 
