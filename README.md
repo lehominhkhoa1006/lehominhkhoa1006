@@ -58,7 +58,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 **Collaboration & Office Tools:**  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 
 **Data Science & Artificial Intelligence:**
