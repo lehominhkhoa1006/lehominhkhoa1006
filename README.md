@@ -28,17 +28,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ---
 
 ## 🛠 My Skills
-
-**Languages & Communication:**  
-![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
-![Deutsch](https://img.shields.io/badge/Deutsch-FFCE00?style=for-the-badge&logo=Germany&logoColor=black)
-
-
-**Driving Licenses:**  
-![A1 License](https://img.shields.io/badge/A1%20Motorcycle%20License-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)
-![B2 License](https://img.shields.io/badge/B2%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-
 **Engineering & Simulation:**  
 ![Proteus 8](https://img.shields.io/badge/Proteus_8-00599C?style=for-the-badge&logo=proteus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=Mathworks&logoColor=white)
@@ -66,6 +55,17 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Poe](https://img.shields.io/badge/Poe-AC2DFE?style=for-the-badge&logo=quora&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
+**Languages & Communication:**  
+![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
+![Deutsch](https://img.shields.io/badge/Deutsch-FFCE00?style=for-the-badge&logo=Germany&logoColor=black)
+
+
+**Driving Licenses:**  
+![A1 License](https://img.shields.io/badge/A1%20Motorcycle%20License-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)
+![B2 License](https://img.shields.io/badge/B2%20Car%20License%20(coming%20soon)-4682B4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 
 ---
 
