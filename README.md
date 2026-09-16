@@ -23,8 +23,8 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
   [DOI](https://doi.org/10.31603/ae.16198)
 
 - **Reinforcement Learning with ITAE-Based DDPG for Continuous PI Tuning in FOC IPMSM Drives**  
-  *Green Technology and Sustainable Development Conference, 2026*  
-  [Paper]
+  *Green Technology and Sustainable Development Conference 2026*  
+  [Conference Booklet](https://drive.google.com/file/d/14BdDa_VQYB9yb7mEXvrB0PHApwvrsEUF/view?usp=drive_link)
 
   
 ---
