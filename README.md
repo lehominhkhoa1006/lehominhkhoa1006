@@ -43,7 +43,8 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 
 ---
 
-## 📩 Contact Email: lehominhkhoa1006@gmail.com  
+## 📩 Contact Email: 
+- lehominhkhoa1006@gmail.com  
 
 ## 🌐 Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-minh-khoa-le-00523037b/)
