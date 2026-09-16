@@ -51,6 +51,7 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keil uVision 5](https://img.shields.io/badge/Keil%20uVision%205-009640?style=for-the-badge&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 
 
@@ -58,7 +59,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![UltraViewer](https://img.shields.io/badge/UltraViewer-00ADEF?style=for-the-badge&logo=ultraviewer&logoColor=white)
 ![Snapseed](https://img.shields.io/badge/Snapseed-41641f?style=for-the-badge&logoColor=white)
