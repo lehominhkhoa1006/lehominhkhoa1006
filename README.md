@@ -56,6 +56,11 @@ During my undergraduate studies, I explored autonomous vehicles, embedded system
 
 ---
 
+## 🌐 Connect
+
+[![Email](https://img.shields.io/badge/Email-lehominhkhoa1006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lehominhkhoa1006@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Le_Ho_Minh_Khoa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-minh-khoa-le/)
 
 
 
