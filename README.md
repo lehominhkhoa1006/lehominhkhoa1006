@@ -41,20 +41,6 @@ Automotive Engineering Technology graduate and Research Assistant exploring elec
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 
-**Data Science & Artificial Intelligence:**
-
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-FFCC00?style=for-the-badge&logo=x&logoColor=black)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1E40AF?style=for-the-badge&logo=perplexity&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Poe](https://img.shields.io/badge/Poe-AC2DFE?style=for-the-badge&logo=quora&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
-
-
 **Languages & Communication:**  
 ![IELTS](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&logo=britishcouncil&logoColor=white)
 ![Deutsch](https://img.shields.io/badge/Deutsch-FFCE00?style=for-the-badge&logo=Germany&logoColor=black)
