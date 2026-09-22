@@ -1,4 +1,4 @@
-# Hi, I'm Le Ho Minh Khoa
+# Hi, I'm Le Ho Minh Khoa!
 ---
 ## 👋 About Me
 Automotive Engineering Technology graduate and Research Assistant exploring electric motor control and intelligent vehicle systems. My projects range from autonomous cars and ROS to LiDAR fusion and computer vision, built with Python, C/C++, and embedded platforms.
